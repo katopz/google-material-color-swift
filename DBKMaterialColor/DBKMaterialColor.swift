@@ -1078,4 +1078,16 @@ class DBKMaterialColor {
     class func bluegrey900Color() -> UIColor {
         return UIColor(rgb: 0x263238)
     }
+
+    // black ///////////////////////////////
+
+    class func blackColor() -> UIColor {
+        return UIColor(rgb: 0x000000)
+    }
+
+    // white ///////////////////////////////
+
+    class func whiteColor() -> UIColor {
+        return UIColor(rgb: 0xffffff)
+    }
 }
