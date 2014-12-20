@@ -1039,43 +1039,43 @@ class DBKMaterialColor {
 
     // blue-grey ///////////////////////////////
 
-    class func bluegrey50Color() -> UIColor {
+    class func blueGrey50Color() -> UIColor {
         return UIColor(rgb: 0xeceff1)
     }
 
-    class func bluegrey100Color() -> UIColor {
+    class func blueGrey100Color() -> UIColor {
         return UIColor(rgb: 0xcfd8dc)
     }
 
-    class func bluegrey200Color() -> UIColor {
+    class func blueGrey200Color() -> UIColor {
         return UIColor(rgb: 0xb0bec5)
     }
 
-    class func bluegrey300Color() -> UIColor {
+    class func blueGrey300Color() -> UIColor {
         return UIColor(rgb: 0x90a4ae)
     }
 
-    class func bluegrey400Color() -> UIColor {
+    class func blueGrey400Color() -> UIColor {
         return UIColor(rgb: 0x78909c)
     }
 
-    class func bluegrey500Color() -> UIColor {
+    class func blueGrey500Color() -> UIColor {
         return UIColor(rgb: 0x607d8b)
     }
 
-    class func bluegrey600Color() -> UIColor {
+    class func blueGrey600Color() -> UIColor {
         return UIColor(rgb: 0x546e7a)
     }
 
-    class func bluegrey700Color() -> UIColor {
+    class func blueGrey700Color() -> UIColor {
         return UIColor(rgb: 0x455a64)
     }
 
-    class func bluegrey800Color() -> UIColor {
+    class func blueGrey800Color() -> UIColor {
         return UIColor(rgb: 0x37474f)
     }
 
-    class func bluegrey900Color() -> UIColor {
+    class func blueGrey900Color() -> UIColor {
         return UIColor(rgb: 0x263238)
     }
 
