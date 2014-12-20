@@ -24,59 +24,59 @@ class DBKMaterialColor {
     // red ///////////////////////////////
 
     class func red50Color() -> UIColor {
-        return UIColor(rgb: 0xfde0dc)
+        return UIColor(rgb: 0xffebee)
     }
 
     class func red100Color() -> UIColor {
-        return UIColor(rgb: 0xf9bdbb)
+        return UIColor(rgb: 0xffcdd2)
     }
 
     class func red200Color() -> UIColor {
-        return UIColor(rgb: 0xf69988)
+        return UIColor(rgb: 0xef9a9a)
     }
 
     class func red300Color() -> UIColor {
-        return UIColor(rgb: 0xf36c60)
+        return UIColor(rgb: 0xe57373)
     }
 
     class func red400Color() -> UIColor {
-        return UIColor(rgb: 0xe84e40)
+        return UIColor(rgb: 0xef5350)
     }
 
     class func red500Color() -> UIColor {
-        return UIColor(rgb: 0xe51c23)
+        return UIColor(rgb: 0xf44336)
     }
 
     class func red600Color() -> UIColor {
-        return UIColor(rgb: 0xdd191d)
+        return UIColor(rgb: 0xe53935)
     }
 
     class func red700Color() -> UIColor {
-        return UIColor(rgb: 0xd01716)
+        return UIColor(rgb: 0xd32f2f)
     }
 
     class func red800Color() -> UIColor {
-        return UIColor(rgb: 0xc41411)
+        return UIColor(rgb: 0xc62828)
     }
 
     class func red900Color() -> UIColor {
-        return UIColor(rgb: 0xb0120a)
+        return UIColor(rgb: 0xb71c1c)
     }
 
     class func redA100Color() -> UIColor {
-        return UIColor(rgb: 0xff7997)
+        return UIColor(rgb: 0xff8a80)
     }
 
     class func redA200Color() -> UIColor {
-        return UIColor(rgb: 0xff5177)
+        return UIColor(rgb: 0xff5252)
     }
 
     class func redA400Color() -> UIColor {
-        return UIColor(rgb: 0xff2d6f)
+        return UIColor(rgb: 0xff1744)
     }
 
     class func redA700Color() -> UIColor {
-        return UIColor(rgb: 0xe0003)
+        return UIColor(rgb: 0xd50000)
     }
 
     // pink ///////////////////////////////
@@ -314,59 +314,59 @@ class DBKMaterialColor {
     // blue ///////////////////////////////
 
     class func blue50Color() -> UIColor {
-        return UIColor(rgb: 0xe7e9fd)
+        return UIColor(rgb: 0xe3f2fd)
     }
 
     class func blue100Color() -> UIColor {
-        return UIColor(rgb: 0xd0d9ff)
+        return UIColor(rgb: 0xbbdefb)
     }
 
     class func blue200Color() -> UIColor {
-        return UIColor(rgb: 0xafbfff)
+        return UIColor(rgb: 0x90caf9)
     }
 
     class func blue300Color() -> UIColor {
-        return UIColor(rgb: 0x91a7ff)
+        return UIColor(rgb: 0x64b5f6)
     }
 
     class func blue400Color() -> UIColor {
-        return UIColor(rgb: 0x738ffe)
+        return UIColor(rgb: 0x42a5f5)
     }
 
     class func blue500Color() -> UIColor {
-        return UIColor(rgb: 0x5677fc)
+        return UIColor(rgb: 0x2196f3)
     }
 
     class func blue600Color() -> UIColor {
-        return UIColor(rgb: 0x4e6cef)
+        return UIColor(rgb: 0x1e88e5)
     }
 
     class func blue700Color() -> UIColor {
-        return UIColor(rgb: 0x455ede)
+        return UIColor(rgb: 0x1976d2)
     }
 
     class func blue800Color() -> UIColor {
-        return UIColor(rgb: 0x3b50ce)
+        return UIColor(rgb: 0x1565c0)
     }
 
     class func blue900Color() -> UIColor {
-        return UIColor(rgb: 0x2a36b1)
+        return UIColor(rgb: 0x0d47a1)
     }
 
     class func blueA100Color() -> UIColor {
-        return UIColor(rgb: 0xa6baff)
+        return UIColor(rgb: 0x82b1ff)
     }
 
     class func blueA200Color() -> UIColor {
-        return UIColor(rgb: 0x6889ff)
+        return UIColor(rgb: 0x448aff)
     }
 
     class func blueA400Color() -> UIColor {
-        return UIColor(rgb: 0x4d73ff)
+        return UIColor(rgb: 0x2979ff)
     }
 
     class func blueA700Color() -> UIColor {
-        return UIColor(rgb: 0x4d69ff)
+        return UIColor(rgb: 0x2962ff)
     }
 
     // light-blue ///////////////////////////////
@@ -546,59 +546,59 @@ class DBKMaterialColor {
     // green ///////////////////////////////
 
     class func green50Color() -> UIColor {
-        return UIColor(rgb: 0xd0f8ce)
+        return UIColor(rgb: 0xe8f5e9)
     }
 
     class func green100Color() -> UIColor {
-        return UIColor(rgb: 0xa3e9a4)
+        return UIColor(rgb: 0xc8e6c9)
     }
 
     class func green200Color() -> UIColor {
-        return UIColor(rgb: 0x72d572)
+        return UIColor(rgb: 0xa5d6a7)
     }
 
     class func green300Color() -> UIColor {
-        return UIColor(rgb: 0x42bd41)
+        return UIColor(rgb: 0x81c784)
     }
 
     class func green400Color() -> UIColor {
-        return UIColor(rgb: 0x2baf2b)
+        return UIColor(rgb: 0x66bb6a)
     }
 
     class func green500Color() -> UIColor {
-        return UIColor(rgb: 0x259b24)
+        return UIColor(rgb: 0x4caf50)
     }
 
     class func green600Color() -> UIColor {
-        return UIColor(rgb: 0x0a8f08)
+        return UIColor(rgb: 0x43a047)
     }
 
     class func green700Color() -> UIColor {
-        return UIColor(rgb: 0x0a7e07)
+        return UIColor(rgb: 0x388e3c)
     }
 
     class func green800Color() -> UIColor {
-        return UIColor(rgb: 0x056f00)
+        return UIColor(rgb: 0x2e7d32)
     }
 
     class func green900Color() -> UIColor {
-        return UIColor(rgb: 0x0d5302)
+        return UIColor(rgb: 0x1b5e20)
     }
 
     class func greenA100Color() -> UIColor {
-        return UIColor(rgb: 0xa2f78d)
+        return UIColor(rgb: 0xb9f6ca)
     }
 
     class func greenA200Color() -> UIColor {
-        return UIColor(rgb: 0x5af158)
+        return UIColor(rgb: 0x69f0ae)
     }
 
     class func greenA400Color() -> UIColor {
-        return UIColor(rgb: 0x14e715)
+        return UIColor(rgb: 0x00e676)
     }
 
     class func greenA700Color() -> UIColor {
-        return UIColor(rgb: 0x12c700)
+        return UIColor(rgb: 0x00c853)
     }
 
     // light-green ///////////////////////////////
