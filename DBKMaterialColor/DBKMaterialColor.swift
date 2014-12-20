@@ -1033,10 +1033,6 @@ class DBKMaterialColor {
         return UIColor(rgb: 0x212121)
     }
 
-    class func grey1000Color() -> UIColor {
-        return UIColor(rgb: 0x000000)
-    }
-
     // blue-grey ///////////////////////////////
 
     class func blueGrey50Color() -> UIColor {
