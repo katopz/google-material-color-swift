@@ -9,17 +9,6 @@
 
 import UIKit
 
-// group of red color
-let REDS = [
-        DBKMaterialColor.red50Color(), DBKMaterialColor.red100Color(),
-        DBKMaterialColor.red200Color(), DBKMaterialColor.red300Color(),
-        DBKMaterialColor.red400Color(), DBKMaterialColor.red500Color(),
-        DBKMaterialColor.red600Color(), DBKMaterialColor.red700Color(),
-        DBKMaterialColor.red800Color(), DBKMaterialColor.red900Color(),
-        DBKMaterialColor.redA100Color(), DBKMaterialColor.redA200Color(),
-        DBKMaterialColor.redA400Color(), DBKMaterialColor.redA700Color()
-]
-
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
@@ -30,16 +19,19 @@ class ViewController: UIViewController {
 
         // Advance : Change view background color randomly with animation
         self.randomlyChangeViewBackgroudColorWithAnimation()
+
     }
 
-    func getRandomRed() -> UIColor {
-        return REDS[Int(arc4random_uniform(UInt32(REDS.count)))]
+    func getRandomColorFromPalette() -> UIColor {
+        let palettes = DBKMaterialPalette.all()
+        let colors = palettes[Int(arc4random_uniform(UInt32(palettes.count)))]
+        return colors[Int(arc4random_uniform(UInt32(colors.count)))]
     }
 
     func randomlyChangeViewBackgroudColorWithAnimation() {
         UIView.animateWithDuration(0.5, delay: 0.5, options: .CurveEaseOut,
                 animations: {
-                    self.view.backgroundColor = self.getRandomRed()
+                    self.view.backgroundColor = self.getRandomColorFromPalette()
                 },
                 completion: {
                     (complete: Bool) in
