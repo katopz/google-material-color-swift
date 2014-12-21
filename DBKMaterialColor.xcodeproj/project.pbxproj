@@ -32,6 +32,7 @@
 		BC23D1698F55B261B1636DEA /* DBKMaterialColor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DBKMaterialColor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC23D35F26A3F1B9C870BF5E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BC23D4EB9FD642CCAD5671D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
+		BC23D900E2CAECD0BFC3DA74 /* DBKMaterialPalettes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBKMaterialPalettes.swift; sourceTree = "<group>"; };
 		BC23DA7FCB6DC637E049E8D0 /* DBKMaterialColorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBKMaterialColorTests.swift; sourceTree = "<group>"; };
 		BC23DC9FC8F44BAAEF7F4A75 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		BC23DD252EE8CF8418BCBD23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
@@ -85,6 +86,7 @@
 				BC23D348D5C670E24DBE1071 /* Main.storyboard */,
 				BC23D35F26A3F1B9C870BF5E /* ViewController.swift */,
 				BC23D1607C78E7D0A620AF8E /* DBKMaterialColor.swift */,
+				BC23D900E2CAECD0BFC3DA74 /* DBKMaterialPalettes.swift */,
 			);
 			path = DBKMaterialColor;
 			sourceTree = "<group>";
