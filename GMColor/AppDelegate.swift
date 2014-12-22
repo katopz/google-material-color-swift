@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  DBKMaterialColor
+//  GMColor
 //
 //  Created by Todsaporn Banjerdkit (katopz) on 12/19/14.
 //  Copyright (c) 2014 Debokeh. All rights reserved.

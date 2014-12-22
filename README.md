@@ -5,7 +5,7 @@ Defined color value ready to use via Swift refer to [Google Material Design in S
 ###How to use
 ```swift
 // Set view background to Red 500
-self.view.backgroundColor = DBKMaterialColor.red500Color()
+self.view.backgroundColor = GMColor.red500Color()
 ```
 That's it! :D
 

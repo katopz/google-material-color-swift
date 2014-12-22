@@ -1,6 +1,6 @@
 //
-//  DBKMaterialColor.swift
-//  DBKMaterialColor
+//  GMColor.swift
+//  GMColor
 //
 //  Created by Todsaporn Banjerdkit (katopz) on 12/19/14.
 //  Copyright (c) 2014 Debokeh. All rights reserved.
@@ -19,7 +19,7 @@ extension UIColor {
     }
 }
 
-class DBKMaterialColor {
+class GMColor {
 
     // red ///////////////////////////////
 

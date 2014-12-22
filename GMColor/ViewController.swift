@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  DBKMaterialColor
+//  GMColor
 //
 //  Created by Todsaporn Banjerdkit (katopz) on 12/19/14.
 //  Copyright (c) 2014 Debokeh. All rights reserved.
@@ -15,7 +15,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
 
         // Basic : Set view background to Blue 500
-        self.view.backgroundColor = DBKMaterialColor.blue500Color()
+        self.view.backgroundColor = GMColor.blue500Color()
 
         // Advance : Change view background color randomly with animation
         self.randomlyChangeViewBackgroudColorWithAnimation()
@@ -23,7 +23,7 @@ class ViewController: UIViewController {
     }
 
     func getRandomColorFromPalette() -> UIColor {
-        let palettes = DBKMaterialPalette.all()
+        let palettes = GMPalette.all()
         let colors = palettes[Int(arc4random_uniform(UInt32(palettes.count)))]
         return colors[Int(arc4random_uniform(UInt32(colors.count)))]
     }

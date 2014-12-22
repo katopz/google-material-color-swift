@@ -7,13 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		83FF43591A4739B00034B141 /* DBKMaterialPalette.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83FF43581A4739B00034B141 /* DBKMaterialPalette.swift */; };
+		83FF43591A4739B00034B141 /* GMPalette.swift in Sources */ = {isa = PBXBuildFile; fileRef = 83FF43581A4739B00034B141 /* GMPalette.swift */; };
 		BC23D2168CCEF3A11AD0C272 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = BC23D348D5C670E24DBE1071 /* Main.storyboard */; };
-		BC23D2BFA69214E749C49879 /* DBKMaterialColorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC23DA7FCB6DC637E049E8D0 /* DBKMaterialColorTests.swift */; };
+		BC23D2BFA69214E749C49879 /* GMColorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC23DA7FCB6DC637E049E8D0 /* GMColorTests.swift */; };
 		BC23D4A683D8FBDB211DB48C /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC23D35F26A3F1B9C870BF5E /* ViewController.swift */; };
 		BC23D5F10524488E761C6E3F /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = BC23DC9FC8F44BAAEF7F4A75 /* Images.xcassets */; };
 		BC23D5F7A63D334FF87E8364 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = BC23D6F5C9632EF33257B8C1 /* LaunchScreen.xib */; };
-		BC23D84952D5E5746054147F /* DBKMaterialColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC23D1607C78E7D0A620AF8E /* DBKMaterialColor.swift */; };
+		BC23D84952D5E5746054147F /* GMColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC23D1607C78E7D0A620AF8E /* GMColor.swift */; };
 		BC23DC83654A7514194BBA69 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BC23D0BB736074C59851D396 /* AppDelegate.swift */; };
 /* End PBXBuildFile section */
 
@@ -23,21 +23,21 @@
 			containerPortal = BC23D1B38AAE0212B44FE10A /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = BC23DD262C95820BBA1C8D5A;
-			remoteInfo = DBKMaterialColor;
+			remoteInfo = GMColor;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		83FF43581A4739B00034B141 /* DBKMaterialPalette.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBKMaterialPalette.swift; sourceTree = "<group>"; };
+		83FF43581A4739B00034B141 /* GMPalette.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMPalette.swift; sourceTree = "<group>"; };
 		BC23D0BB736074C59851D396 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		BC23D1607C78E7D0A620AF8E /* DBKMaterialColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DBKMaterialColor.swift; sourceTree = "<group>"; };
-		BC23D1698F55B261B1636DEA /* DBKMaterialColor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DBKMaterialColor.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC23D1607C78E7D0A620AF8E /* GMColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GMColor.swift; sourceTree = "<group>"; };
+		BC23D1698F55B261B1636DEA /* GMColor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GMColor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC23D35F26A3F1B9C870BF5E /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		BC23D4EB9FD642CCAD5671D0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
-		BC23DA7FCB6DC637E049E8D0 /* DBKMaterialColorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DBKMaterialColorTests.swift; sourceTree = "<group>"; };
+		BC23DA7FCB6DC637E049E8D0 /* GMColorTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GMColorTests.swift; sourceTree = "<group>"; };
 		BC23DC9FC8F44BAAEF7F4A75 /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Images.xcassets; sourceTree = "<group>"; };
 		BC23DD252EE8CF8418BCBD23 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = Base; path = Base.lproj/LaunchScreen.xib; sourceTree = "<group>"; };
-		BC23DE27F945B974038DCEEB /* DBKMaterialColorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DBKMaterialColorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		BC23DE27F945B974038DCEEB /* GMColorTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = GMColorTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		BC23DF1A8EB5B4CD7142CA99 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.info; path = Info.plist; sourceTree = "<group>"; };
 		BC23DF337A3E35623381A473 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -63,8 +63,8 @@
 		BC23D2726C1BFF4975F9DBDA /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				BC23D1698F55B261B1636DEA /* DBKMaterialColor.app */,
-				BC23DE27F945B974038DCEEB /* DBKMaterialColorTests.xctest */,
+				BC23D1698F55B261B1636DEA /* GMColor.app */,
+				BC23DE27F945B974038DCEEB /* GMColorTests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -77,7 +77,7 @@
 			name = "Supporting Files";
 			sourceTree = "<group>";
 		};
-		BC23D7B3289F4147F355C160 /* DBKMaterialColor */ = {
+		BC23D7B3289F4147F355C160 /* GMColor */ = {
 			isa = PBXGroup;
 			children = (
 				BC23DDF74AA652970CC2AEDA /* Supporting Files */,
@@ -86,28 +86,28 @@
 				BC23D0BB736074C59851D396 /* AppDelegate.swift */,
 				BC23D348D5C670E24DBE1071 /* Main.storyboard */,
 				BC23D35F26A3F1B9C870BF5E /* ViewController.swift */,
-				BC23D1607C78E7D0A620AF8E /* DBKMaterialColor.swift */,
-				83FF43581A4739B00034B141 /* DBKMaterialPalette.swift */,
+				BC23D1607C78E7D0A620AF8E /* GMColor.swift */,
+				83FF43581A4739B00034B141 /* GMPalette.swift */,
 			);
-			path = DBKMaterialColor;
+			path = GMColor;
 			sourceTree = "<group>";
 		};
 		BC23D7E3FF007D5315554163 = {
 			isa = PBXGroup;
 			children = (
 				BC23D2726C1BFF4975F9DBDA /* Products */,
-				BC23D7B3289F4147F355C160 /* DBKMaterialColor */,
-				BC23DCC47F2A4BFFC34C2212 /* DBKMaterialColorTests */,
+				BC23D7B3289F4147F355C160 /* GMColor */,
+				BC23DCC47F2A4BFFC34C2212 /* GMColorTests */,
 			);
 			sourceTree = "<group>";
 		};
-		BC23DCC47F2A4BFFC34C2212 /* DBKMaterialColorTests */ = {
+		BC23DCC47F2A4BFFC34C2212 /* GMColorTests */ = {
 			isa = PBXGroup;
 			children = (
 				BC23D5DE3B614CD424D42A25 /* Supporting Files */,
-				BC23DA7FCB6DC637E049E8D0 /* DBKMaterialColorTests.swift */,
+				BC23DA7FCB6DC637E049E8D0 /* GMColorTests.swift */,
 			);
-			path = DBKMaterialColorTests;
+			path = GMColorTests;
 			sourceTree = "<group>";
 		};
 		BC23DDF74AA652970CC2AEDA /* Supporting Files */ = {
@@ -121,9 +121,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		BC23D033649BBB597A4C1385 /* DBKMaterialColorTests */ = {
+		BC23D033649BBB597A4C1385 /* GMColorTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BC23D17BCA6E8CEAAFDF31FC /* Build configuration list for PBXNativeTarget "DBKMaterialColorTests" */;
+			buildConfigurationList = BC23D17BCA6E8CEAAFDF31FC /* Build configuration list for PBXNativeTarget "GMColorTests" */;
 			buildPhases = (
 				BC23DF779D762FBE84B7055E /* Sources */,
 				BC23D0FEA296F712B56A8890 /* Frameworks */,
@@ -134,14 +134,14 @@
 			dependencies = (
 				BC23D75ECC87222BE9E66F0B /* PBXTargetDependency */,
 			);
-			name = DBKMaterialColorTests;
-			productName = DBKMaterialColorTests;
-			productReference = BC23DE27F945B974038DCEEB /* DBKMaterialColorTests.xctest */;
+			name = GMColorTests;
+			productName = GMColorTests;
+			productReference = BC23DE27F945B974038DCEEB /* GMColorTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		BC23DD262C95820BBA1C8D5A /* DBKMaterialColor */ = {
+		BC23DD262C95820BBA1C8D5A /* GMColor */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = BC23D5C2474F3C548894E042 /* Build configuration list for PBXNativeTarget "DBKMaterialColor" */;
+			buildConfigurationList = BC23D5C2474F3C548894E042 /* Build configuration list for PBXNativeTarget "GMColor" */;
 			buildPhases = (
 				BC23D712AD895EF03EB746DC /* Sources */,
 				BC23DE7DDE2B7F0B784077AC /* Frameworks */,
@@ -151,9 +151,9 @@
 			);
 			dependencies = (
 			);
-			name = DBKMaterialColor;
-			productName = DBKMaterialColor;
-			productReference = BC23D1698F55B261B1636DEA /* DBKMaterialColor.app */;
+			name = GMColor;
+			productName = GMColor;
+			productReference = BC23D1698F55B261B1636DEA /* GMColor.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -164,7 +164,7 @@
 			attributes = {
 				ORGANIZATIONNAME = Debokeh;
 			};
-			buildConfigurationList = BC23DEFAFF6C8ACE140A73B1 /* Build configuration list for PBXProject "DBKMaterialColor" */;
+			buildConfigurationList = BC23DEFAFF6C8ACE140A73B1 /* Build configuration list for PBXProject "GMColor" */;
 			compatibilityVersion = "Xcode 3.2";
 			developmentRegion = English;
 			hasScannedForEncodings = 0;
@@ -176,8 +176,8 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				BC23DD262C95820BBA1C8D5A /* DBKMaterialColor */,
-				BC23D033649BBB597A4C1385 /* DBKMaterialColorTests */,
+				BC23DD262C95820BBA1C8D5A /* GMColor */,
+				BC23D033649BBB597A4C1385 /* GMColorTests */,
 			);
 		};
 /* End PBXProject section */
@@ -209,8 +209,8 @@
 			files = (
 				BC23DC83654A7514194BBA69 /* AppDelegate.swift in Sources */,
 				BC23D4A683D8FBDB211DB48C /* ViewController.swift in Sources */,
-				83FF43591A4739B00034B141 /* DBKMaterialPalette.swift in Sources */,
-				BC23D84952D5E5746054147F /* DBKMaterialColor.swift in Sources */,
+				83FF43591A4739B00034B141 /* GMPalette.swift in Sources */,
+				BC23D84952D5E5746054147F /* GMColor.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -218,7 +218,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				BC23D2BFA69214E749C49879 /* DBKMaterialColorTests.swift in Sources */,
+				BC23D2BFA69214E749C49879 /* GMColorTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -227,7 +227,7 @@
 /* Begin PBXTargetDependency section */
 		BC23D75ECC87222BE9E66F0B /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = BC23DD262C95820BBA1C8D5A /* DBKMaterialColor */;
+			target = BC23DD262C95820BBA1C8D5A /* GMColor */;
 			targetProxy = BC23D41F8F4D80117BD5467C /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
@@ -255,12 +255,12 @@
 		BC23D06667BFFDEDA11365F5 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/DBKMaterialColor.app/DBKMaterialColor";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/GMColor.app/GMColor";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = DBKMaterialColorTests/Info.plist;
+				INFOPLIST_FILE = GMColorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
@@ -314,7 +314,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = DBKMaterialColor/Info.plist;
+				INFOPLIST_FILE = GMColor/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -359,12 +359,12 @@
 		BC23DC4116D8C9B6AC1E9F20 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/DBKMaterialColor.app/DBKMaterialColor";
+				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/GMColor.app/GMColor";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
 					"$(inherited)",
 				);
-				INFOPLIST_FILE = DBKMaterialColorTests/Info.plist;
+				INFOPLIST_FILE = GMColorTests/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				TEST_HOST = "$(BUNDLE_LOADER)";
@@ -375,7 +375,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				INFOPLIST_FILE = DBKMaterialColor/Info.plist;
+				INFOPLIST_FILE = GMColor/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -384,7 +384,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		BC23D17BCA6E8CEAAFDF31FC /* Build configuration list for PBXNativeTarget "DBKMaterialColorTests" */ = {
+		BC23D17BCA6E8CEAAFDF31FC /* Build configuration list for PBXNativeTarget "GMColorTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BC23D06667BFFDEDA11365F5 /* Debug */,
@@ -393,7 +393,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BC23D5C2474F3C548894E042 /* Build configuration list for PBXNativeTarget "DBKMaterialColor" */ = {
+		BC23D5C2474F3C548894E042 /* Build configuration list for PBXNativeTarget "GMColor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BC23DF5E5444D26A0027F58D /* Debug */,
@@ -402,7 +402,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		BC23DEFAFF6C8ACE140A73B1 /* Build configuration list for PBXProject "DBKMaterialColor" */ = {
+		BC23DEFAFF6C8ACE140A73B1 /* Build configuration list for PBXProject "GMColor" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				BC23D5F62CBF3BB6FE4569CA /* Debug */,
