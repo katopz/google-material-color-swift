@@ -1,4 +1,14 @@
-# Google Material Color in Swift
+Google Material Color in Swift
+===========
+
+[![Platform](http://img.shields.io/badge/platform-ios-blue.svg?style=flat
+)](https://developer.apple.com/iphone/index.action)
+[![Language](http://img.shields.io/badge/language-swift-brightgreen.svg?style=flat
+)](https://developer.apple.com/swift)
+[![License](http://img.shields.io/badge/license-MIT-lightgrey.svg?style=flat
+)](http://mit-license.org)
+[![Issues](https://img.shields.io/github/issues/katopz/google-material-color-swift.svg?style=flat
+)](https://github.com/katopz/google-material-color-swift/issues?state=open)
 
 Defined Google Material Color value ready to use in Swift refer to [Google Material Design in Style/Color section](http://www.google.com/design/spec/style/color.html#color-color-palette)
 
