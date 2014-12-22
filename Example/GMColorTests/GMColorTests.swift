@@ -2,7 +2,7 @@
 //  GMColorTests.swift
 //  GMColorTests
 //
-//  Created by Todsaporn Banjerdkit (katopz) on 12/19/14.
+//  Created by Todsaporn Banjerdkit on 12/23/14.
 //  Copyright (c) 2014 Debokeh. All rights reserved.
 //
 
