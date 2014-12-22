@@ -1,4 +1,4 @@
-# Google Material Design Color via Swift
+# Google Material Color in Swift
 
 Defined Google Material Color value ready to use in Swift refer to [Google Material Design in Style/Color section](http://www.google.com/design/spec/style/color.html#color-color-palette)
 
