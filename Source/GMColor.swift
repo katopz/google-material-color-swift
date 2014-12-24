@@ -21,7 +21,7 @@ extension UIColor {
 
 class GMColor {
 
-    // red ///////////////////////////////
+    // MARK: - red
 
     class func red50Color() -> UIColor {
         return UIColor(rgb: 0xffebee)
@@ -79,7 +79,7 @@ class GMColor {
         return UIColor(rgb: 0xd50000)
     }
 
-    // pink ///////////////////////////////
+    // MARK: - pink
 
     class func pink50Color() -> UIColor {
         return UIColor(rgb: 0xfce4ec)
@@ -137,7 +137,7 @@ class GMColor {
         return UIColor(rgb: 0xc51162)
     }
 
-    // purple ///////////////////////////////
+    // MARK: - purple
 
     class func purple50Color() -> UIColor {
         return UIColor(rgb: 0xf3e5f5)
@@ -195,7 +195,7 @@ class GMColor {
         return UIColor(rgb: 0xaa00ff)
     }
 
-    // deep-purple ///////////////////////////////
+    // MARK: - deep-purple
 
     class func deepPurple50Color() -> UIColor {
         return UIColor(rgb: 0xede7f6)
@@ -253,7 +253,7 @@ class GMColor {
         return UIColor(rgb: 0x6200ea)
     }
 
-    // indigo ///////////////////////////////
+    // MARK: - indigo
 
     class func indigo50Color() -> UIColor {
         return UIColor(rgb: 0xe8eaf6)
@@ -311,7 +311,7 @@ class GMColor {
         return UIColor(rgb: 0x304ffe)
     }
 
-    // blue ///////////////////////////////
+    // MARK: - blue
 
     class func blue50Color() -> UIColor {
         return UIColor(rgb: 0xe3f2fd)
@@ -369,7 +369,7 @@ class GMColor {
         return UIColor(rgb: 0x2962ff)
     }
 
-    // light-blue ///////////////////////////////
+    // MARK: - light-blue
 
     class func lightBlue50Color() -> UIColor {
         return UIColor(rgb: 0xe1f5fe)
@@ -427,7 +427,7 @@ class GMColor {
         return UIColor(rgb: 0x0091ea)
     }
 
-    // cyan ///////////////////////////////
+    // MARK: - cyan
 
     class func cyan50Color() -> UIColor {
         return UIColor(rgb: 0xe0f7fa)
@@ -485,7 +485,7 @@ class GMColor {
         return UIColor(rgb: 0x00b8d4)
     }
 
-    // teal ///////////////////////////////
+    // MARK: - teal
 
     class func teal50Color() -> UIColor {
         return UIColor(rgb: 0xe0f2f1)
@@ -543,7 +543,7 @@ class GMColor {
         return UIColor(rgb: 0x00bfa5)
     }
 
-    // green ///////////////////////////////
+    // MARK: - green
 
     class func green50Color() -> UIColor {
         return UIColor(rgb: 0xe8f5e9)
@@ -601,7 +601,7 @@ class GMColor {
         return UIColor(rgb: 0x00c853)
     }
 
-    // light-green ///////////////////////////////
+    // MARK: - light-green
 
     class func lightGreen50Color() -> UIColor {
         return UIColor(rgb: 0xf1f8e9)
@@ -659,7 +659,7 @@ class GMColor {
         return UIColor(rgb: 0x64dd17)
     }
 
-    // lime ///////////////////////////////
+    // MARK: - lime
 
     class func lime50Color() -> UIColor {
         return UIColor(rgb: 0xf9fbe7)
@@ -717,7 +717,7 @@ class GMColor {
         return UIColor(rgb: 0xaeea00)
     }
 
-    // yellow ///////////////////////////////
+    // MARK: - yellow
 
     class func yellow50Color() -> UIColor {
         return UIColor(rgb: 0xfffde7)
@@ -775,7 +775,7 @@ class GMColor {
         return UIColor(rgb: 0xffd600)
     }
 
-    // amber ///////////////////////////////
+    // MARK: - amber
 
     class func amber50Color() -> UIColor {
         return UIColor(rgb: 0xfff8e1)
@@ -833,7 +833,7 @@ class GMColor {
         return UIColor(rgb: 0xffab00)
     }
 
-    // orange ///////////////////////////////
+    // MARK: - orange
 
     class func orange50Color() -> UIColor {
         return UIColor(rgb: 0xfff3e0)
@@ -891,7 +891,7 @@ class GMColor {
         return UIColor(rgb: 0xff6d00)
     }
 
-    // deep-orange ///////////////////////////////
+    // MARK: - deep-orange
 
     class func deepOrange50Color() -> UIColor {
         return UIColor(rgb: 0xfbe9e7)
@@ -949,7 +949,7 @@ class GMColor {
         return UIColor(rgb: 0xdd2c00)
     }
 
-    // brown ///////////////////////////////
+    // MARK: - brown
 
     class func brown50Color() -> UIColor {
         return UIColor(rgb: 0xefebe9)
@@ -991,7 +991,7 @@ class GMColor {
         return UIColor(rgb: 0x3e2723)
     }
 
-    // grey ///////////////////////////////
+    // MARK: - grey
 
     class func grey50Color() -> UIColor {
         return UIColor(rgb: 0xfafafa)
@@ -1033,7 +1033,7 @@ class GMColor {
         return UIColor(rgb: 0x212121)
     }
 
-    // blue-grey ///////////////////////////////
+    // MARK: - blue-grey
 
     class func blueGrey50Color() -> UIColor {
         return UIColor(rgb: 0xeceff1)
@@ -1075,13 +1075,13 @@ class GMColor {
         return UIColor(rgb: 0x263238)
     }
 
-    // black ///////////////////////////////
+    // MARK: - black
 
     class func blackColor() -> UIColor {
         return UIColor(rgb: 0x000000)
     }
 
-    // white ///////////////////////////////
+    // MARK: - white
 
     class func whiteColor() -> UIColor {
         return UIColor(rgb: 0xffffff)
